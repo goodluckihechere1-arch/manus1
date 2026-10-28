@@ -1,0 +1,88 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Plumbing in NYC & Westchester"
+    },
+    {
+      "path": "/services/",
+      "title": "Plumbing Services"
+    },
+    {
+      "path": "/projects/",
+      "title": "Project Examples"
+    },
+    {
+      "path": "/about/",
+      "title": "About Tap Plumbing Corp | NYC & Westchester"
+    },
+    {
+      "path": "/contact/",
+      "title": "Contact Tap Plumbing Corp | NYC & Westchester"
+    },
+    {
+      "path": "/estimate/",
+      "title": "Request a Plumbing Project Estimate"
+    },
+    {
+      "path": "/areas/",
+      "title": "Areas Served"
+    },
+    {
+      "path": "/privacy/",
+      "title": "Privacy & Prototype Notice"
+    },
+    {
+      "path": "/services/commercial-plumbing/",
+      "title": "Commercial Plumbing"
+    },
+    {
+      "path": "/services/residential-plumbing/",
+      "title": "Residential Plumbing"
+    },
+    {
+      "path": "/services/new-construction/",
+      "title": "New Construction Plumbing"
+    },
+    {
+      "path": "/services/bathroom-kitchen-renovations/",
+      "title": "Kitchen & Bathroom Renovations"
+    },
+    {
+      "path": "/services/gas-piping/",
+      "title": "Gas Piping"
+    },
+    {
+      "path": "/services/fixture-installation/",
+      "title": "Fixture Installation"
+    },
+    {
+      "path": "/services/plumbing-repairs/",
+      "title": "Plumbing Repairs"
+    },
+    {
+      "path": "/services/water-heater-services/",
+      "title": "Water Heaters & Boilers"
+    },
+    {
+      "path": "/areas/bronx/",
+      "title": "Plumbing Services in the Bronx"
+    },
+    {
+      "path": "/areas/manhattan/",
+      "title": "Plumbing Services in Manhattan"
+    },
+    {
+      "path": "/areas/queens/",
+      "title": "Plumbing Services in Queens"
+    },
+    {
+      "path": "/areas/brooklyn/",
+      "title": "Plumbing Services in Brooklyn"
+    },
+    {
+      "path": "/areas/westchester/",
+      "title": "Plumbing Services in Westchester County"
+    }
+  ]
+}

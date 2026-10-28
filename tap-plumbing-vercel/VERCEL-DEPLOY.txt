@@ -1,0 +1,5 @@
+Tap Plumbing Corp — static website upload
+
+Extract this archive and deploy the extracted folder contents as a static site. The folder root contains index.html. No build command or framework preset is required; for Vercel, use the folder containing index.html as the project root and the current directory (.) as the output directory.
+
+The estimate form is a client-side prototype that opens a prefilled email draft; it does not submit directly to the business or upload attachments. Portfolio project imagery uses clearly identified placeholders pending owner-approved photographs. Verify company details, testimonial approvals, project information, and photo rights before production.
